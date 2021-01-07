@@ -1,2 +1,2 @@
 ﻿# Data-Structures-Algos
-This repository contains my solutions to problems for Elements of Programming Interviews in python
+This repository contains code examples, notes and leetcode solutions for the Data Structures and Algorithms, I have been learning.
