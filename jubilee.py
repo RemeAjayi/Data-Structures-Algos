@@ -16,3 +16,6 @@ def funWithAnagrams(str):
 
 
     print(funWithAnagrams(["code", "doce", "framer", "frame"]))
+
+
+#put friends code in gitignore
